@@ -1,4 +1,4 @@
-# 🤖 Automação de Processos com Python | Data-Driven Process Automation jk
+# 🤖 Automação de Processos com Python | Data-Driven Process Automation
 
 ## 📌 Visão Geral
 Este projeto apresenta uma **automação completa de processos operacionais utilizando Python**, com foco em **ganho de eficiência, redução de erros manuais e integração entre dados e sistemas**.
